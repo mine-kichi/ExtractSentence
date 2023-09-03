@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtractSentence", "ExtractSentence.csproj", "{366AF1D5-6BBF-4C99-8945-42056B24AF8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{366AF1D5-6BBF-4C99-8945-42056B24AF8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{366AF1D5-6BBF-4C99-8945-42056B24AF8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{366AF1D5-6BBF-4C99-8945-42056B24AF8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{366AF1D5-6BBF-4C99-8945-42056B24AF8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA3290C9-8DEA-463C-9529-723D97B57F64}
+	EndGlobalSection
+EndGlobal
